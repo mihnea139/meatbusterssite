@@ -96,3 +96,30 @@
   margin-top: 60px;
 }
 
+#imgNavBar {
+  height: 100%;
+  width: 110%;
+}
+
+#title {
+  font-size: 25px;
+}
+
+#title-1 {
+  margin-top: -10%;
+}
+
+#imgPos {
+  height: 100%;
+  width: 100%;
+  margin-top: -10%;
+}
+
+#titleButon {
+  margin-top: -10%;
+}
+
+#imgInfo {
+  width: 60%;
+}
+
